@@ -1,1 +1,1 @@
-alert("Markdaun 記法");
+alert("Markdown 記法");
